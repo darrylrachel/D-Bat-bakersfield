@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+.navbar__logo {
+  width: 180px;
+}
+div#navbarSupportedContent {
+  justify-content: end;
+}
